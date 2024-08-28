@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsCurrancyExhange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A473E6-1F8D-467B-842E-D6E328BED50B}|app\\app.vcxproj|solutionrelative:app\\clsCurrancyExhange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "app\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindClientScreen.h",
+              "RelativeToolTip": "app\\clsFindClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:46:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "app\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "app\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:46:16.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "app\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "app\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:45:56.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "app\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsFindUserScreen.h",
+              "RelativeToolTip": "app\\clsFindUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:45:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsListUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsListUsersScreen.h",
+              "RelativeDocumentMoniker": "app\\clsListUsersScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsListUsersScreen.h",
+              "RelativeToolTip": "app\\clsListUsersScreen.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:45:47.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "app\\clsLoginScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsLoginScreen.h",
+              "RelativeToolTip": "app\\clsLoginScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:45:39.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "app\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsManageUsersScreen.h",
+              "RelativeToolTip": "app\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:41:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "app\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "app\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:41:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\Global.h",
+              "RelativeDocumentMoniker": "app\\Global.h",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\Global.h",
+              "RelativeToolTip": "app\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:41:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsCurrancyExhange.cpp",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsCurrancyExhange.cpp",
+              "RelativeDocumentMoniker": "app\\clsCurrancyExhange.cpp",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\BS\\Banking-System\\app\\clsCurrancyExhange.cpp",
+              "RelativeToolTip": "app\\clsCurrancyExhange.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T19:40:14.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

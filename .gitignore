@@ -1,0 +1,99 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled static libraries
+*.lib
+*.a
+*.la
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.coredump
+
+# Generated files
+*.gch
+*.pch
+
+# Temporary files
+*~
+\#*\#
+*.swp
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.save
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.pdb
+*.ipch
+*.suo
+*.sln
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Makefile files
+makefile
+Makefile
+
+# Other build systems
+build/
+Build/
+dist/
+Dist/
+*.spec
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Directories for test databases
+__pycache__/
+.venv/
+.virtenv/
+.venv/
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Generated files from IDEs
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.hprof
+
+# macOS files
+.DS_Store
